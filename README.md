@@ -27,6 +27,9 @@ A menu script that does:
 6. Create 2 Nginx Containers with the mount of the index.html we created in 5
 
 
+#### copy_from_server.sh:
+A script that i made that helps me download with scp command any scripts or files from my linux servers
+
 #### Continuous_Integration.sh:
 - This Script will run a Dockerfile
 - That file is building an custom Nginx server
@@ -35,6 +38,7 @@ On Ubuntu base image.
 - Script will let you decide the names of Image & Container.
 - And of course on which Port you want to run the Container.
 - In the end it will run the Container and will **upload the image to hub.docker.com**
+
 
 #### rows_columns.sh:
 - Creates a pattern of the word Iliya from user input of rows and columns.
