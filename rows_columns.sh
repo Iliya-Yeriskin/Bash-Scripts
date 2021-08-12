@@ -12,7 +12,7 @@ do
 	echo `\
 		while [ $c -le $columns ]
 		do
-			echo  "Net4U "
+			echo  "Iliya "
 			let c=1+c
 		done`
 	let r=1+r
