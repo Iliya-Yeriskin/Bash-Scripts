@@ -40,5 +40,11 @@ On Ubuntu base image.
 - In the end it will run the Container and will **upload the image to hub.docker.com**
 
 
+#### Continouos_Delivery.sh:
+- This Script will pull my uploaded imgae form hub.docker.com
+- Then execute a menu to pull,remove,run,show
+images and containers.
+
+
 #### rows_columns.sh:
 - Creates a pattern of the word Iliya from user input of rows and columns.
